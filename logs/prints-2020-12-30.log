@@ -1,0 +1,7 @@
+20:55:15.489 [TestNG-tests-2] INFO  resources.Base - url opened
+20:55:15.921 [TestNG-tests-3] INFO  resources.Base - url got opened
+20:55:16.389 [TestNG-tests-1] INFO  resources.Base - All the users got registered
+20:55:17.842 [TestNG-tests-2] INFO  resources.Base - User got logged-in
+20:55:23.768 [TestNG-tests-2] INFO  resources.Base - Browser got closed, Testcase_Tc_02 got passed
+20:55:24.804 [TestNG-tests-1] INFO  resources.Base - All the users got registered
+20:55:25.457 [TestNG-tests-3] INFO  resources.Base - Amount got validated

@@ -1,0 +1,3 @@
+20:55:30.528 [TestNG-tests-3] INFO  resources.Base - Browser got closed, Testcase_Tc_03 got passed
+20:55:33.164 [TestNG-tests-1] INFO  resources.Base - All the users got registered
+20:55:35.610 [TestNG-tests-1] INFO  resources.Base - Browser got closed, Testcase_Tc_01 got passed
