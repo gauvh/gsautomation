@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="TESTING.E2EProject.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="TC_01(failed)">
+    <classes>
+      <class name="TESTING.E2EProject.TC_01_Registration">
+        <methods>
+          <include name="tearDown"/>
+          <include name="baseRegistration"/>
+          <include name="getdriver"/>
+        </methods>
+      </class> <!-- TESTING.E2EProject.TC_01_Registration -->
+    </classes>
+  </test> <!-- TC_01(failed) -->
+</suite> <!-- Failed suite [Suite] -->
