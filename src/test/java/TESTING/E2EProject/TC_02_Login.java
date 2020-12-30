@@ -44,7 +44,7 @@ public class TC_02_Login extends Base {
 
 	@DataProvider(name = "logindetails")
 	public Object[][] getDataFromDataprovider() {
-		return new Object[][] { { "gaurav10690@gmail.com", "Qwerty@123" } };
+		return new Object[][] { { "test1234@test.in", "Qwerty@123" } };
 
 	}
 
