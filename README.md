@@ -42,8 +42,11 @@ Setup Pre-requisite*************
 
 You can use MAVEN Commands as well to run from CMD
 Give the path of the project in CMD, and then fire below commands.
+
 mvn clean
+
 mvn compile
+
 mvn test
 
 #Happy Testing!!!!
